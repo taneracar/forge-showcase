@@ -5,7 +5,9 @@
 **A strength-training and nutrition log for iOS, Android and the web.**
 Write programs, log sets in one tap, track food against derived targets, and send workouts to the people you train with.
 
-*Coming soon to the App Store and Google Play.*
+**[Download on the App Store](https://apps.apple.com/app/id6819363336)** · **[forgerep.app](https://forgerep.app)**
+
+*Android coming soon to Google Play.*
 
 <!-- TODO: add 3–4 phone screenshots to docs/screenshots/ and uncomment
 <img src="docs/screenshots/workout.png" width="22%" alt="Active workout" />
@@ -115,6 +117,6 @@ I keep a running backlog in which every closed item records *why* the decision w
 
 <div align="center">
 
-Built by **Taner Acar** · [GitHub](https://github.com/taneracar)
+Built by **Taner Acar** · [App Store](https://apps.apple.com/app/id6819363336) · [Web](https://forgerep.app) · [GitHub](https://github.com/taneracar)
 
 </div>
