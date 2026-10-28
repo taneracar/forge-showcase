@@ -9,12 +9,7 @@ Write programs, log sets in one tap, track food against derived targets, and sen
 
 *Android coming soon to Google Play.*
 
-<!-- TODO: add 3–4 phone screenshots to docs/screenshots/ and uncomment
-<img src="docs/screenshots/workout.png" width="22%" alt="Active workout" />
-<img src="docs/screenshots/exercise.png" width="22%" alt="Exercise figure" />
-<img src="docs/screenshots/nutrition.png" width="22%" alt="Nutrition" />
-<img src="docs/screenshots/profile.png" width="22%" alt="Training heatmap" />
--->
+<img src="docs/screenshots/overview.jpg" width="100%" alt="Forge on iPhone: logging sets, the dashboard and the nutrition day" />
 
 </div>
 
@@ -48,6 +43,20 @@ Write programs, log sets in one tap, track food against derived targets, and sen
 **Social, opt-in.** Usernames, search, follows and blocking. When two people follow each other, either one can write a program *for* the other and send it. Once accepted, it lands in the recipient's account with the prescription intact and credited to whoever wrote it.
 
 **Privacy.** No ads and no analytics SDKs. Crash reports carry an account id and nothing else, never weight, food or training data. Deleting your account removes everything attached to it.
+
+### Screens
+
+<p align="center">
+<img src="docs/screenshots/program.jpg" width="31%" alt="Workout editor with exercise figures" />
+<img src="docs/screenshots/session.jpg" width="31%" alt="Logged workout session" />
+<img src="docs/screenshots/records.jpg" width="31%" alt="Profile with weekly streak and personal records" />
+</p>
+
+### Web
+
+<p align="center">
+<img src="docs/screenshots/web.jpg" width="100%" alt="forgerep.app on desktop and mobile" />
+</p>
 
 ---
 
